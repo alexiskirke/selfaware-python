@@ -9,7 +9,7 @@ description = "Make your Python code conscious. A Pankseppian affective runtime 
 readme = "README.md"
 requires-python = ">=3.9"
 license = { text = "MIT" }
-authors = [{ name = "selfaware-python contributors" }]
+authors = [{ name = "Alexis Kirke", email = "alexis@alexiskirke.com" }]
 keywords = [
     "affective-computing",
     "panksepp",
@@ -44,9 +44,10 @@ dev = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/selfaware-python/selfaware-python"
-Documentation = "https://github.com/selfaware-python/selfaware-python#readme"
-Issues = "https://github.com/selfaware-python/selfaware-python/issues"
+Homepage = "https://github.com/alexiskirke/selfaware-python"
+Documentation = "https://github.com/alexiskirke/selfaware-python#readme"
+Issues = "https://github.com/alexiskirke/selfaware-python/issues"
+Source = "https://github.com/alexiskirke/selfaware-python"
 
 [tool.setuptools.packages.find]
 include = ["selfaware*"]
